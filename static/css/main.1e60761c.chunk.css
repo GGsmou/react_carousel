@@ -1,0 +1,2 @@
+.Carousel{position:relative}.Carousel__container{margin:auto;overflow:hidden;overflow-x:hidden;overflow-y:hidden}.Carousel__list{display:flex;padding:0;list-style:none}.btn{position:absolute;width:40px;height:40px;font-size:24px;border:none;border-radius:50%;background-color:#eee;cursor:pointer}.btn:hover{background-color:#ddd}.btn--prev{left:10%}.btn--next{right:10%}.btn--disabled{opacity:.5;cursor:not-allowed}.btn--disabled:hover{background-color:#eee}
+/*# sourceMappingURL=main.1e60761c.chunk.css.map */
